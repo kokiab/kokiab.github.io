@@ -1,3 +1,12 @@
 h1{
   color: red;
+  background-color:  black;
+}
+
+.game {
+  color: blue;
+}
+
+.favorite ul{
+  list-style: none;
 }
